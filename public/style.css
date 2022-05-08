@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 500px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #000000;
+ }
+
+ ul li {
+    border: 2px solid rgb(0, 0, 0);
+  }
+
+
+
+th, td {
+    border: 1px solid rgb(0, 0, 0);
+ }
+
+
+.active{
+    background-color: rgb(62, 136, 60);
+}
